@@ -1,0 +1,6 @@
+{
+  "name": "SocialGrow AI",
+  "description": "AI-Powered Social Media Channel Analyzer, Video SEO Optimizer, Content Strategy & Monetization Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
